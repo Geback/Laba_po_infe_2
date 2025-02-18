@@ -1,3 +1,0 @@
-﻿  Choice.cpp
-C:\Копачи\Лаба2_2\Choice\Choice.cpp(9,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
-  Choice.vcxproj -> C:\Копачи\Лаба2_2\x64\Debug\Choice.exe
