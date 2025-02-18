@@ -1,0 +1,3 @@
+﻿  Babble Gam.cpp
+C:\Копачи\Лаба2_2\Babble Gam\Babble Gam.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Babble Gam.vcxproj -> C:\Копачи\Лаба2_2\x64\Debug\Babble Gam.exe
