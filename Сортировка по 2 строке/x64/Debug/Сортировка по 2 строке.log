@@ -1,0 +1,104 @@
+﻿  Сортировка по 2 строке.cpp
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\math.h(1,1): warning C4821: Не удается определить тип кодировки Юникод; сохраните файл с сигнатурой (BOM)
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(24,18): error C2039: "fabs": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(24,22): error C3861: fabs: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(28,18): error C2039: "fabsf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(28,23): error C3861: fabsf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(32,18): error C2039: "fabsl": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cstdlib(32,23): error C3861: fabsl: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(37,18): error C2039: "acosf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(37,23): error C3861: acosf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(41,18): error C2039: "acoshf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(41,24): error C3861: acoshf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(45,18): error C2039: "asinf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(45,23): error C3861: asinf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(49,18): error C2039: "asinhf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(49,24): error C3861: asinhf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(53,18): error C2039: "atanf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(53,23): error C3861: atanf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(57,18): error C2039: "atanhf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(57,24): error C3861: atanhf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(61,18): error C2039: "atan2f": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(61,24): error C3861: atan2f: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(65,18): error C2039: "cbrtf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(65,23): error C3861: cbrtf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(89,18): error C2039: "cosf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(89,22): error C3861: cosf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(93,18): error C2039: "coshf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(93,23): error C3861: coshf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(97,18): error C2039: "erff": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(97,22): error C3861: erff: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(101,18): error C2039: "erfcf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(101,23): error C3861: erfcf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(105,18): error C2039: "expf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(105,22): error C3861: expf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(109,18): error C2039: "exp2f": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(109,23): error C3861: exp2f: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(113,18): error C2039: "expm1f": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(113,24): error C3861: expm1f: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(117,18): error C2039: "fabsf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(117,23): error C3861: fabsf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(121,18): error C2039: "fdimf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(121,23): error C3861: fdimf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(135,18): error C2039: "fmaf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(135,22): error C3861: fmaf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(139,18): error C2039: "fmaxf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(139,23): error C3861: fmaxf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(143,18): error C2039: "fminf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(143,23): error C3861: fminf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(147,18): error C2039: "fmodf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(147,23): error C3861: fmodf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(151,18): error C2039: "frexpf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(151,24): error C3861: frexpf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(155,18): error C2039: "hypotf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(155,24): error C3861: hypotf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(159,18): error C2039: "ilogbf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(159,24): error C3861: ilogbf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(163,18): error C2039: "ldexpf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(163,24): error C3861: ldexpf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(167,18): error C2039: "lgammaf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(167,25): error C3861: lgammaf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(171,18): error C2039: "llrintf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(171,25): error C3861: llrintf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(175,18): error C2039: "llroundf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(175,26): error C3861: llroundf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(179,18): error C2039: "logf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(179,22): error C3861: logf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(183,18): error C2039: "log10f": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(183,24): error C3861: log10f: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(187,18): error C2039: "log1pf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(187,24): error C3861: log1pf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(191,18): error C2039: "log2f": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(191,23): error C3861: log2f: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(195,18): error C2039: "logbf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(195,23): error C3861: logbf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(199,18): error C2039: "lrintf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(199,24): error C3861: lrintf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(203,18): error C2039: "lroundf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(203,25): error C3861: lroundf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(207,18): error C2039: "modff": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(207,23): error C3861: modff: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(211,18): error C2039: "nearbyintf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(211,28): error C3861: nearbyintf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(215,18): error C2039: "nextafterf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(215,28): error C3861: nextafterf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(219,18): error C2039: "nexttowardf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(219,29): error C3861: nexttowardf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(223,18): error C2039: "powf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(223,22): error C3861: powf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(227,18): error C2039: "remainderf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(227,28): error C3861: remainderf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(231,18): error C2039: "remquof": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(231,25): error C3861: remquof: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(235,18): error C2039: "rintf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(235,23): error C3861: rintf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(249,18): error C2039: "scalblnf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(249,26): error C3861: scalblnf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(253,18): error C2039: "scalbnf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(253,25): error C3861: scalbnf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(257,18): error C2039: "sinf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(257,22): error C3861: sinf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(261,18): error C2039: "sinhf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(261,23): error C3861: sinhf: идентификатор не найден
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(265,18): error C2039: "sqrtf": не является членом "`global namespace'".
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\cmath(265,23): fatal error C1003: число ошибок превышает 100; остановка компиляции
