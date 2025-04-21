@@ -1,0 +1,3 @@
+﻿  Peperoni.cpp
+C:\Users\Geback\Desktop\Хеши\HeshTable\Peperoni\Peperoni.cpp(113,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Peperoni.vcxproj -> C:\Users\Geback\Desktop\Хеши\HeshTable\x64\Debug\Peperoni.exe
