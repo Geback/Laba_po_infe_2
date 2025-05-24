@@ -1,0 +1,85 @@
+﻿  LabaS_11.cpp
+D:\Копачи\LabaS_11\LabaS_11\4.h(60,21): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+  
+D:\Копачи\LabaS_11\LabaS_11\1.h(80,23): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+      D:\Копачи\LabaS_11\LabaS_11\1.h(80,23):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Копачи\LabaS_11\LabaS_11\2.h(15,16):
+          выполняется компиляция ссылки на экземпляр шаблон функции "T SearchMidVal<Pair>(std::list<Pair,std::allocator<Pair>> &)"
+          with
+          [
+              T=Pair
+          ]
+  
+D:\Копачи\LabaS_11\LabaS_11\3.h(58,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+      D:\Копачи\LabaS_11\LabaS_11\3.h(58,24):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Копачи\LabaS_11\LabaS_11\3.h(113,13):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "List<Pair>"
+          D:\Копачи\LabaS_11\LabaS_11\3.h(56,1):
+          во время компиляции функции-члена класс шаблон "void List<Pair>::PushMidVal(void)"
+              D:\Копачи\LabaS_11\LabaS_11\3.h(117,16):
+              см. первую ссылку на List<Pair>::PushMidVal "number_3"
+  
+D:\Копачи\LabaS_11\LabaS_11\3.h(78,24): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+      D:\Копачи\LabaS_11\LabaS_11\3.h(78,24):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Копачи\LabaS_11\LabaS_11\3.h(63,1):
+          во время компиляции функции-члена класс шаблон "void List<Pair>::DelElem(void)"
+              D:\Копачи\LabaS_11\LabaS_11\3.h(121,13):
+              см. первую ссылку на List<Pair>::DelElem "number_3"
+  
+D:\Копачи\LabaS_11\LabaS_11\5.h(58,22): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+      D:\Копачи\LabaS_11\LabaS_11\5.h(58,22):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Копачи\LabaS_11\LabaS_11\5.h(117,23):
+          выполняется компиляция ссылки на экземпляр класс шаблон функции "Priority_queue<Pair>"
+          D:\Копачи\LabaS_11\LabaS_11\5.h(56,1):
+          во время компиляции функции-члена класс шаблон "void Priority_queue<Pair>::PushMidVal(void)"
+              D:\Копачи\LabaS_11\LabaS_11\5.h(121,16):
+              см. первую ссылку на Priority_queue<Pair>::PushMidVal "number_5"
+  
+D:\Копачи\LabaS_11\LabaS_11\3.h(51,23): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+      D:\Копачи\LabaS_11\LabaS_11\3.h(51,23):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Копачи\LabaS_11\LabaS_11\3.h(25,1):
+          во время компиляции функции-члена класс шаблон "List<Pair>::List(int)"
+              D:\Копачи\LabaS_11\LabaS_11\3.h(113,16):
+              см. первую ссылку на List<Pair>::List "number_3"
+          D:\Копачи\LabaS_11\LabaS_11\3.h(47,1):
+          во время компиляции функции-члена класс шаблон "T List<T>::SearchMidVal(void)"
+          with
+          [
+              T=Pair
+          ]
+              D:\Копачи\LabaS_11\LabaS_11\3.h(57,15):
+              см. первую ссылку на List<Pair>::SearchMidVal "List<Pair>::PushMidVal"
+              D:\Копачи\LabaS_11\LabaS_11\3.h(117,16):
+              см. первую ссылку на List<Pair>::PushMidVal "number_3"
+  
+D:\Копачи\LabaS_11\LabaS_11\5.h(52,21): warning C4267: аргумент: преобразование из "size_t" в "const int"; возможна потеря данных
+  (компиляция исходного файла "LabaS_11.cpp")
+      D:\Копачи\LabaS_11\LabaS_11\5.h(52,21):
+      контекст создания экземпляра шаблона (сначала самый старый)
+          D:\Копачи\LabaS_11\LabaS_11\5.h(24,41):
+          во время компиляции функции-члена класс шаблон "Priority_queue<Pair>::Priority_queue(int)"
+              D:\Копачи\LabaS_11\LabaS_11\5.h(117,26):
+              см. первую ссылку на Priority_queue<Pair>::Priority_queue "number_5"
+          D:\Копачи\LabaS_11\LabaS_11\5.h(46,36):
+          во время компиляции функции-члена класс шаблон "T Priority_queue<T>::SearchMidVal(void)"
+          with
+          [
+              T=Pair
+          ]
+              D:\Копачи\LabaS_11\LabaS_11\5.h(57,8):
+              см. первую ссылку на Priority_queue<Pair>::SearchMidVal "Priority_queue<Pair>::PushMidVal"
+              D:\Копачи\LabaS_11\LabaS_11\5.h(121,16):
+              см. первую ссылку на Priority_queue<Pair>::PushMidVal "number_5"
+  
+  LabaS_11.vcxproj -> D:\Копачи\LabaS_11\x64\Debug\LabaS_11.exe
